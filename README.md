@@ -1,5 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Linux-Backup_Script"/>
 # Linux-Backup_Script
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ubuntu" />
+  </a>
+</p>
 Linux bash backup script
 Linux Automated Backup Script
 A Bash-based automation that backs up directories into compressed .tar.gz files with timestamps and automatically cleans up old backups.
