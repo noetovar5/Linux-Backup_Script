@@ -3,7 +3,7 @@ Linux bash backup script
 Linux Automated Backup Script
 A Bash-based automation that backs up directories into compressed .tar.gz files with timestamps and automatically cleans up old backups.
 
-🚀 Features
+Features
 Automatically backs up important directories
 Compresses files to save space
 Adds timestamps for versioning
