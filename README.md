@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Linux-Backup_Script"/>
 # Linux-Backup_Script
 Linux bash backup script
 Linux Automated Backup Script
